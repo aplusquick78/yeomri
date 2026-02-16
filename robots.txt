@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeomri.8222quick.com/sitemap.xml
+
+
+
